@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Pesol</first_name>
+	<last_name>Maiyawut</last_name>
+	<phone_number>0805476598</phone_number>
+	<notes>My phone number.</notes>
+</contact>
+<contact>
+	<first_name>Tim</first_name>
+	<last_name>Browny</last_name>
+	<phone_number>3344123</phone_number>
+	<notes>Tim is Professional Developer.</notes>
+</contact>
+<contact>
+	<first_name>Adam</first_name>
+	<last_name>Sandler</last_name>
+	<phone_number>55661234</phone_number>
+	<notes>Adam is Best comedy actor</notes>
+</contact>
+<contact>
+	<first_name>Zyra</first_name>
+	<last_name>Smith</last_name>
+	<phone_number>12345980</phone_number>
+	<notes>Zyra is champion in game...</notes>
+</contact>
+<contact>
+	<first_name>test</first_name>
+	<last_name>eee</last_name>
+	<phone_number>133213</phone_number>
+	<notes>ttgtgtg</notes>
+</contact>
+</contacts>
